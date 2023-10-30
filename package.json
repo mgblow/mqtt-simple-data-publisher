@@ -1,0 +1,27 @@
+{
+  "name": "mqtt-simple-data-publisher",
+  "version": "1.0.0",
+  "description": "mqtt simple data publisher written in nodejs.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgblow/mqtt-simple-data-publisher.git"
+  },
+  "keywords": [
+    "mqtt",
+    "nodejs",
+    "publisher"
+  ],
+  "author": "mgblow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mgblow/mqtt-simple-data-publisher/issues"
+  },
+  "homepage": "https://github.com/mgblow/mqtt-simple-data-publisher#readme",
+  "dependencies": {
+    "mqtt": "^5.1.4"
+  }
+}

@@ -1,0 +1,28 @@
+# Logs
+logs
+*.log
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor specific files
+.vscode/
+*.sublime-*
+*.swp
+*.swo
+
+# Environment files
+.env
+
+# Build output
+build/
+dist/
+out/
+
+# Coverage directory
+coverage/
