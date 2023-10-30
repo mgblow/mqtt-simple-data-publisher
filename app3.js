@@ -1,7 +1,7 @@
 const mqtt = require('mqtt');
 
 const MQTT_BROKER_URL = 'mqtt://185.232.153.20:1883'; 
-const MQTT_TOPIC = 'helmet1'; 
+const MQTT_TOPIC = 'helmet3'; 
 
 const client = mqtt.connect(MQTT_BROKER_URL);
 
